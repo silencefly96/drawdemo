@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CameraDemo</string>
+    <string name="draw_clear">清除</string>
+    <string name="draw_back">后退</string>
+    <string name="draw_forward">前进</string>
+    <string name="draw_output">导出</string>
+    <string name="draw_set">设置</string>
+    <string name="draw_output_hint">导出路径:</string>
+    <string name="draw_width">画笔粗细</string>
+    <string name="draw_stroke_color">画笔颜色</string>
+    <string name="draw_canvas_color">背景颜色</string>
+</resources>
